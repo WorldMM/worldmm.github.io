@@ -1,0 +1,6 @@
+figure: assets/fig/concept.webp
+caption: |
+  1. A day-long video sampled at 1 fps has frames that exceed the context limits of video LLMs.
+  2. M3-Agent <a href="#ref-1">[1]</a> relies on textual representation of video, which can underrepresent visual information.
+  3. EgoRAG <a href="#ref-2">[2]</a> retrieves both captions and the corresponding visual frames, but irrelevant frames may distract model.
+  4. WorldMM (Ours) constructs multiple memories, incorporating both textual and visual representations, and uses adaptive memory retrieval to effectively leverage multimodal information.
