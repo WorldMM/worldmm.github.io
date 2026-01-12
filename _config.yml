@@ -1,5 +1,6 @@
 title: "WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning"
 description: "WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning"
+keywords: "WorldMM, Multimodal Memory, Memory, Agentic Memory, Long Video Reasoning, Long Video Understanding, Multi-Agent System"
 markdown: kramdown
 kramdown:
   input: GFM
